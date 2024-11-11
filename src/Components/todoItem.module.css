@@ -1,0 +1,29 @@
+.item {
+  width: 500px;
+  color: #353935;
+  font-size: 20px;
+  margin: 0 auto;
+}
+.todoItem {
+  font-weight: bold;
+  padding: 20px;
+}
+
+.line {
+  border-color: rgb(233, 229, 229);
+  border-width: 1px;
+  border-style: solid;
+}
+.deleteButton {
+  color: white;
+  float: right;
+  margin-top: -5px;
+  background-color: rgb(215, 128, 22);
+  border-radius: 4px;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+.itemdecor {
+  text-decoration: line-through;
+}
